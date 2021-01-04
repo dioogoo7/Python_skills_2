@@ -2,7 +2,7 @@
 Bloomberg Project
 
 ## Project Overview
-The project’s objective is to investigate which economic sectors are the winners and losers COVID19 pandemic.
+The project’s objective is to investigate which firms and economic sectors are the winners and losers COVID19 pandemic.
 ### Key Questions
 * Which companies and economic sectors were positively and negatively affected by the COVID19 pandemic?
 * Did bigger firms perform better than smaller firms during the COVID19 pandemic?
